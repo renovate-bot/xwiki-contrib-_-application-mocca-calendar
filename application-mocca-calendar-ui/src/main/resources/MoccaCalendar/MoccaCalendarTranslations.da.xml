@@ -37,155 +37,155 @@
   <syntaxId>plain/1.0</syntaxId>
   <hidden>true</hidden>
   <content>#general
-### Missing: MoccaCalendar.calendar=
-### Missing: MoccaCalendar.calendar.title=
-### Missing: MoccaCalendar.calendar.defaultCalendarTitle=
-### Missing: MoccaCalendar.calendar.viewall=
-### Missing: MoccaCalendar.calendar.create=
-### Missing: MoccaCalendar.calendar.plainlist=
-### Missing: MoccaCalendar.calendar.plainlist.titlepast=
-### Missing: MoccaCalendar.calendar.plainlist.titleupcoming=
-### Missing: MoccaCalendar.calendar.plainlist.nopastevents=
-### Missing: MoccaCalendar.calendar.plainlist.noupcomingevents=
-### Missing: MoccaCalendar.calendar.firstDayOfWeek=
-### Missing: MoccaCalendar.calendarevent.viewall=
-### Missing: MoccaCalendar.calendarevent.filterEvents=
-### Missing: MoccaCalendar.calendarevent.filterEvents.submit=
-### Missing: MoccaCalendar.calendarevent.create=
-### Missing: MoccaCalendar.calendarevent.backlink=
-### Missing: MoccaCalendar.calendarevent.confirmDelete=
-### Missing: MoccaCalendar.calendarevent.view=
-### Missing: MoccaCalendar.calendarevent.confirmDelete.allEventsButton=
-### Missing: MoccaCalendar.generic.errormessage=
+MoccaCalendar.calendar=Kalender
+MoccaCalendar.calendar.title=Kalender
+MoccaCalendar.calendar.defaultCalendarTitle=Andre begivenheder
+MoccaCalendar.calendar.viewall=Oversigt over alle kalendere
+MoccaCalendar.calendar.create=Opret ny kalender
+MoccaCalendar.calendar.plainlist=dagsorden
+MoccaCalendar.calendar.plainlist.titlepast=Tidligere begivenheder
+MoccaCalendar.calendar.plainlist.titleupcoming=Kommende begivenheder
+MoccaCalendar.calendar.plainlist.nopastevents=Der blev ikke fundet nogen tidligere begivenheder.
+MoccaCalendar.calendar.plainlist.noupcomingevents=Der blev ikke fundet nogen kommende begivenheder.
+MoccaCalendar.calendar.firstDayOfWeek=1
+MoccaCalendar.calendarevent.viewall=Alle begivenheder
+MoccaCalendar.calendarevent.filterEvents=Filtrer begivenheder efter kalender
+MoccaCalendar.calendarevent.filterEvents.submit=Filtrer begivenheder
+MoccaCalendar.calendarevent.create=Opret ny begivenhed
+MoccaCalendar.calendarevent.backlink=Tilbage til kalenderen &amp;#187;{0}&amp;#171;
+MoccaCalendar.calendarevent.confirmDelete=Vil du virkelig slette begivenheden &amp;#187;{0}&amp;#171;?
+MoccaCalendar.calendarevent.view=Begivenhed
+MoccaCalendar.calendarevent.confirmDelete.allEventsButton=Alle forekomster
+MoccaCalendar.generic.errormessage=Intern serverfejl
 
 # Class fields
-### Missing: MoccaCalendar.MoccaCalendarClass_title=
-### Missing: MoccaCalendar.MoccaCalendarClass_color=
-### Missing: MoccaCalendar.MoccaCalendarClass_textColor=
-### Missing: MoccaCalendar.MoccaCalendarClass_description=
-### Missing: MoccaCalendar.MoccaCalendarClass_content1=
-### Missing: MoccaCalendar.MoccaCalendarClass.textColor.unset=
+MoccaCalendar.MoccaCalendarClass_title=Titel
+MoccaCalendar.MoccaCalendarClass_color=Baggrundsfarve på posterne i kalendervisningen
+MoccaCalendar.MoccaCalendarClass_textColor=Tekstfarve på posterne i kalendervisningen
+MoccaCalendar.MoccaCalendarClass_description=Beskrivelse
+MoccaCalendar.MoccaCalendarClass_content1=Indhold
+MoccaCalendar.MoccaCalendarClass.textColor.unset=(hvid)
 
 # Live table generic keys
-### Missing: moccacalendar.livetable.doc.title=
-### Missing: moccacalendar.livetable.doc.name=
-### Missing: moccacalendar.livetable.doc.space=
-### Missing: moccacalendar.livetable.doc.fullname=
-### Missing: moccacalendar.livetable.doc.author=
-### Missing: moccacalendar.livetable.doc.creator=
-### Missing: moccacalendar.livetable.doc.date=
-### Missing: moccacalendar.livetable.doc.creationDate=
-### Missing: moccacalendar.livetable._avatar=
-### Missing: moccacalendar.livetable._images=
-### Missing: moccacalendar.livetable._attachments=
-### Missing: moccacalendar.livetable._actions=
-### Missing: moccacalendar.livetable._actions.edit=
-### Missing: moccacalendar.livetable._actions.delete=
-### Missing: moccacalendar.livetable.emptyvalue=
-### Missing: moccacalendar.livetable.title=
-### Missing: moccacalendar.livetable.description=
-### Missing: moccacalendar.livetable.content1=
+moccacalendar.livetable.doc.title=Kalender
+moccacalendar.livetable.doc.name=Sidenavn
+moccacalendar.livetable.doc.space=Område
+moccacalendar.livetable.doc.fullname=Sidens fulde navn
+moccacalendar.livetable.doc.author=Seneste forfatter
+moccacalendar.livetable.doc.creator=Opretter
+moccacalendar.livetable.doc.date=Opdateringsdato
+moccacalendar.livetable.doc.creationDate=Oprettelsesdato
+moccacalendar.livetable._avatar=Avatar
+moccacalendar.livetable._images=Billeder
+moccacalendar.livetable._attachments=Bilag
+moccacalendar.livetable._actions=Handlinger
+moccacalendar.livetable._actions.edit=Rediger
+moccacalendar.livetable._actions.delete=Slet
+moccacalendar.livetable.emptyvalue=-
+moccacalendar.livetable.title=Titel
+moccacalendar.livetable.description=Beskrivelse
+moccacalendar.livetable.content1=Indhold
 
 # Mocca Calendar Events keys
 # Class fields
-### Missing: MoccaCalendar.MoccaCalendarEventClass_title=
-### Missing: MoccaCalendar.MoccaCalendarEventClass_startDate=
-### Missing: MoccaCalendar.MoccaCalendarEventClass_endDate=
-### Missing: MoccaCalendar.MoccaCalendarEventClass_description=
-### Missing: MoccaCalendar.MoccaCalendarEventClass_allDay=
-### Missing: MoccaCalendar.MoccaCalendarEventClass_recurrent=
+MoccaCalendar.MoccaCalendarEventClass_title=Titel
+MoccaCalendar.MoccaCalendarEventClass_startDate=Startdato
+MoccaCalendar.MoccaCalendarEventClass_endDate=Slutdato
+MoccaCalendar.MoccaCalendarEventClass_description=Beskrivelse
+MoccaCalendar.MoccaCalendarEventClass_allDay=Hele dagen
+MoccaCalendar.MoccaCalendarEventClass_recurrent=Gentagen
 
 # modification class fields
-### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_daily=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_workdays=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_weekly=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_biweekly=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_monthly=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_quarterly=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_yearly=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_firstInstance=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_lastInstance=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventModificationClass_title=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventModificationClass_startDate=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventModificationClass_endDate=
-### Missing: MoccaCalendar.Code.MoccaCalendarEventModificationClass_description=
+MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency=Hyppighed
+MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_daily=dagligt
+MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_workdays=hverdage
+MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_weekly=ugentligt
+MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_biweekly=hver anden uge
+MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_monthly=månedligt
+MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_quarterly=kvartalsvis
+MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_yearly=årligt
+MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_firstInstance=Første forekomst af begivenheden
+MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_lastInstance=Sidste forekomst af begivenheden
+MoccaCalendar.Code.MoccaCalendarEventModificationClass_title=Ændret titel
+MoccaCalendar.Code.MoccaCalendarEventModificationClass_startDate=Ændret startdato
+MoccaCalendar.Code.MoccaCalendarEventModificationClass_endDate=Ændret slutdato
+MoccaCalendar.Code.MoccaCalendarEventModificationClass_description=Ændret beskrivelse
 
 # the modification switch
-### Missing: moccacalendarevent.editswitch.label=
-### Missing: moccacalendarevent.editswitch.oneInstance=
-### Missing: moccacalendarevent.editswitch.allInstances=
+moccacalendarevent.editswitch.label=Rediger:
+moccacalendarevent.editswitch.oneInstance=kun denne forekomst
+moccacalendarevent.editswitch.allInstances=alle forekomster
 
 # Event live table generic keys (currently unused)
-### Missing: moccacalendarevent.livetable.doc.title=
-### Missing: moccacalendarevent.livetable.doc.name=
-### Missing: moccacalendarevent.livetable.doc.space=
-### Missing: moccacalendarevent.livetable.doc.fullname=
-### Missing: moccacalendarevent.livetable.doc.author=
-### Missing: moccacalendarevent.livetable.doc.creator=
-### Missing: moccacalendarevent.livetable.doc.date=
-### Missing: moccacalendarevent.livetable.doc.creationDate=
-### Missing: moccacalendarevent.livetable._avatar=
-### Missing: moccacalendarevent.livetable._images=
-### Missing: moccacalendarevent.livetable._attachments=
-### Missing: moccacalendarevent.livetable._actions=
-### Missing: moccacalendarevent.livetable._actions.edit=
-### Missing: moccacalendarevent.livetable._actions.delete=
-### Missing: moccacalendarevent.livetable.emptyvalue=
+moccacalendarevent.livetable.doc.title=Sidetitel
+moccacalendarevent.livetable.doc.name=Sidenavn
+moccacalendarevent.livetable.doc.space=Område
+moccacalendarevent.livetable.doc.fullname=Sidens fulde navn
+moccacalendarevent.livetable.doc.author=Seneste forfatter
+moccacalendarevent.livetable.doc.creator=Opretter
+moccacalendarevent.livetable.doc.date=Opdateringsdato
+moccacalendarevent.livetable.doc.creationDate=Oprettelsesdato
+moccacalendarevent.livetable._avatar=Avatar
+moccacalendarevent.livetable._images=Billeder
+moccacalendarevent.livetable._attachments=Bilag
+moccacalendarevent.livetable._actions=Handling
+moccacalendarevent.livetable._actions.edit=Rediger
+moccacalendarevent.livetable._actions.delete=Slet
+moccacalendarevent.livetable.emptyvalue=-
 
 # Live table specific keys
-### Missing: moccacalendarevent.livetable.title=
-### Missing: moccacalendarevent.livetable.startDate=
-### Missing: moccacalendarevent.livetable.endDate=
-### Missing: moccacalendarevent.livetable.description=
+moccacalendarevent.livetable.title=Titel
+moccacalendarevent.livetable.startDate=Startdato
+moccacalendarevent.livetable.endDate=Slutdato
+moccacalendarevent.livetable.description=Beskrivelse
 
 # validation messages: on save
-### Missing: val_title_notvalid=
-### Missing: val_title_notempty=
-### Missing: val_startDateMissing=
-### Missing: val_startDateNotDate=
-### Missing: val_endDateNotDate=
-### Missing: val_endDate=
-### Missing: val_title_already_exists=
-### Missing: moccacalendar.updates.firstInstance.notDate=
-### Missing: moccacalendar.updates.lastInstance.notDate=
+val_title_notvalid=Titelfeltet indeholder ugyldige tegn.
+val_title_notempty=Titelfeltet er obligatorisk.
+val_startDateMissing=Begivenheden mangler en startdato.
+val_startDateNotDate=Den angivne startdato kan ikke læses som en dato.
+val_endDateNotDate=Den angivne slutdato kan ikke læses som en dato.
+val_endDate=Slutdatoen skal ligge efter startdatoen.
+val_title_already_exists=Der findes allerede en begivenhed med dette navn.
+moccacalendar.updates.firstInstance.notDate=Den angivne dato for første forekomst kan ikke læses som en dato.
+moccacalendar.updates.lastInstance.notDate=Den angivne dato for sidste forekomst kan ikke læses som en dato.
 
 # validation messages: Update Service
-### Missing: moccacalendar.updates.eventUpdated=
-### Missing: moccacalendar.updates.eventrecurrent=
-### Missing: moccacalendar.updates.valuesinvalid=
-### Missing: moccacalendar.updates.nodocument=
+moccacalendar.updates.eventUpdated=Begivenhedens tidspunkt er opdateret.
+moccacalendar.updates.eventrecurrent=Gentagne begivenheder kan ikke flyttes.
+moccacalendar.updates.valuesinvalid=Begivenhedens nye tidspunkt er ugyldigt.
+moccacalendar.updates.nodocument=Begivenheden er ikke længere tilgængelig.
 
 # validation messages: Delete Service
-### Missing: moccacalendar.delete.startDateInvalid=
-### Missing: moccacalendar.delete.saveMessage=
+moccacalendar.delete.startDateInvalid=Begivenhedens startdato kunne ikke læses.
+moccacalendar.delete.saveMessage=Forekomsten den {0} er slettet.
 
 # validation messages: Modification Service
-### Missing: moccacalendar.modify.createMessage=
-### Missing: moccacalendar.modify.saveMessage=
+moccacalendar.modify.createMessage=Tilføjede en ændring af én forekomst af begivenheden.
+moccacalendar.modify.saveMessage=Opdaterede en ændring af én forekomst af begivenheden.
 
 # Calendar macro
-### Missing: rendering.macro.moccacalendar.name=
-### Missing: rendering.macro.moccacalendar.description=
-### Missing: rendering.macro.moccacalendar.parameter.filter.name=
-### Missing: rendering.macro.moccacalendar.parameter.filter.description=
-### Missing: rendering.macro.moccacalendar.parameter.calendarDoc.name=
-### Missing: rendering.macro.moccacalendar.parameter.calendarDoc.description=
-### Missing: rendering.macro.moccacalendar.parameter.defaultView.name=
-### Missing: rendering.macro.moccacalendar.parameter.defaultView.description=
-### Missing: rendering.macro.moccacalendar.parameter.firstDay.name=
-### Missing: rendering.macro.moccacalendar.parameter.firstDay.description=
-### Missing: rendering.macro.moccacalendar.parameter.minTime.name=
-### Missing: rendering.macro.moccacalendar.parameter.minTime.description=
-### Missing: rendering.macro.moccacalendar.parameter.maxTime.name=
-### Missing: rendering.macro.moccacalendar.parameter.maxTime.description=
-### Missing: rendering.macro.moccacalendar.parameter.year.name=
-### Missing: rendering.macro.moccacalendar.parameter.year.description=
-### Missing: rendering.macro.moccacalendar.parameter.month.name=
-### Missing: rendering.macro.moccacalendar.parameter.month.description=
-### Missing: rendering.macro.moccacalendar.parameter.date.name=
-### Missing: rendering.macro.moccacalendar.parameter.date.description=
-### Missing: rendering.macro.moccacalendar.parameter.eventLimit.name=
-### Missing: rendering.macro.moccacalendar.parameter.eventLimit.description=
+rendering.macro.moccacalendar.name=Mocca Calendar
+rendering.macro.moccacalendar.description=Viser en kalender
+rendering.macro.moccacalendar.parameter.filter.name=Vis begivenheder fra ...
+rendering.macro.moccacalendar.parameter.filter.description=Mulige værdier er 'wiki', 'space' eller 'page', hvor 'page': kun begivenheder, der er undersider til denne side, medtages, 'space': kun begivenheder i kalendersidens område medtages, 'wiki': alle begivenheder medtages.
+rendering.macro.moccacalendar.parameter.calendarDoc.name=Kalenderside
+rendering.macro.moccacalendar.parameter.calendarDoc.description=Den kalenderside, hvis begivenheder vises (kun hvis filteret er sat til 'page'). Værdien bruges også som standardkalender til nye begivenheder. Hvis den mangler, bruges den aktuelle side.
+rendering.macro.moccacalendar.parameter.defaultView.name=Standardvisning
+rendering.macro.moccacalendar.parameter.defaultView.description=Den visning, kalenderen starter med; brugeren kan ændre den. Mulige værdier er: 'month', 'agendaWeek', 'agendaDay' eller 'plainList'.
+rendering.macro.moccacalendar.parameter.firstDay.name=Ugens første dag
+rendering.macro.moccacalendar.parameter.firstDay.description=Ugens første dag i kalenderen (fra 0 = søndag til 6 = lørdag). Lad feltet stå tomt for søndag.
+rendering.macro.moccacalendar.parameter.minTime.name=Første tidspunkt
+rendering.macro.moccacalendar.parameter.minTime.description=Det første tidspunkt, der vises i kalenderen. Brugerne ser ikke timer før dette tidspunkt. Lad feltet stå tomt for standardværdien (8:00).
+rendering.macro.moccacalendar.parameter.maxTime.name=Sidste tidspunkt
+rendering.macro.moccacalendar.parameter.maxTime.description=Det sidste tidspunkt, der vises i kalenderen. Brugerne ser ikke timer efter dette tidspunkt. Lad feltet stå tomt for standardværdien (23:00).
+rendering.macro.moccacalendar.parameter.year.name=År
+rendering.macro.moccacalendar.parameter.year.description=Året for den dato, der vises, når kalenderen indlæses. Lad feltet stå tomt for i dag.
+rendering.macro.moccacalendar.parameter.month.name=Måned
+rendering.macro.moccacalendar.parameter.month.description=Måneden (fra 0 til 11) for den dato, der vises, når kalenderen indlæses. Lad feltet stå tomt for i dag.
+rendering.macro.moccacalendar.parameter.date.name=Dag
+rendering.macro.moccacalendar.parameter.date.description=Dagen (fra 1 til 31) for den dato, der vises, når kalenderen indlæses. Lad feltet stå tomt for i dag.
+rendering.macro.moccacalendar.parameter.eventLimit.name=Begrænsning af begivenheder
+rendering.macro.moccacalendar.parameter.eventLimit.description=Begrænser, hvor mange begivenheder der vises pr. dag. Ekstra begivenheder vises i en pop op-boks. Hvis false (standard), vises alle begivenheder, ellers (true) begrænses de til dagcellens højde.
 </content>
 </xwikidoc>
