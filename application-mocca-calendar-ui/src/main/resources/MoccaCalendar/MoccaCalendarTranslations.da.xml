@@ -1,0 +1,191 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<!--
+ * See the NOTICE file distributed with this work for additional
+ * information regarding copyright ownership.
+ *
+ * This is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU Lesser General Public License as
+ * published by the Free Software Foundation; either version 2.1 of
+ * the License, or (at your option) any later version.
+ *
+ * This software is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+ * Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public
+ * License along with this software; if not, write to the Free
+ * Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+ * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
+-->
+
+<xwikidoc version="1.4" reference="MoccaCalendar.MoccaCalendarTranslations" locale="da">
+  <web>MoccaCalendar</web>
+  <name>MoccaCalendarTranslations</name>
+  <language>da</language>
+  <defaultLanguage>en</defaultLanguage>
+  <translation>1</translation>
+  <creator>xwiki:XWiki.Admin</creator>
+  <parent>MoccaCalendarClass</parent>
+  <author>xwiki:XWiki.Admin</author>
+  <contentAuthor>xwiki:XWiki.Admin</contentAuthor>
+  <version>1.1</version>
+  <title>Mocca Calendar Translations</title>
+  <comment/>
+  <minorEdit>false</minorEdit>
+  <syntaxId>plain/1.0</syntaxId>
+  <hidden>true</hidden>
+  <content>#general
+### Missing: MoccaCalendar.calendar=
+### Missing: MoccaCalendar.calendar.title=
+### Missing: MoccaCalendar.calendar.defaultCalendarTitle=
+### Missing: MoccaCalendar.calendar.viewall=
+### Missing: MoccaCalendar.calendar.create=
+### Missing: MoccaCalendar.calendar.plainlist=
+### Missing: MoccaCalendar.calendar.plainlist.titlepast=
+### Missing: MoccaCalendar.calendar.plainlist.titleupcoming=
+### Missing: MoccaCalendar.calendar.plainlist.nopastevents=
+### Missing: MoccaCalendar.calendar.plainlist.noupcomingevents=
+### Missing: MoccaCalendar.calendar.firstDayOfWeek=
+### Missing: MoccaCalendar.calendarevent.viewall=
+### Missing: MoccaCalendar.calendarevent.filterEvents=
+### Missing: MoccaCalendar.calendarevent.filterEvents.submit=
+### Missing: MoccaCalendar.calendarevent.create=
+### Missing: MoccaCalendar.calendarevent.backlink=
+### Missing: MoccaCalendar.calendarevent.confirmDelete=
+### Missing: MoccaCalendar.calendarevent.view=
+### Missing: MoccaCalendar.calendarevent.confirmDelete.allEventsButton=
+### Missing: MoccaCalendar.generic.errormessage=
+
+# Class fields
+### Missing: MoccaCalendar.MoccaCalendarClass_title=
+### Missing: MoccaCalendar.MoccaCalendarClass_color=
+### Missing: MoccaCalendar.MoccaCalendarClass_textColor=
+### Missing: MoccaCalendar.MoccaCalendarClass_description=
+### Missing: MoccaCalendar.MoccaCalendarClass_content1=
+### Missing: MoccaCalendar.MoccaCalendarClass.textColor.unset=
+
+# Live table generic keys
+### Missing: moccacalendar.livetable.doc.title=
+### Missing: moccacalendar.livetable.doc.name=
+### Missing: moccacalendar.livetable.doc.space=
+### Missing: moccacalendar.livetable.doc.fullname=
+### Missing: moccacalendar.livetable.doc.author=
+### Missing: moccacalendar.livetable.doc.creator=
+### Missing: moccacalendar.livetable.doc.date=
+### Missing: moccacalendar.livetable.doc.creationDate=
+### Missing: moccacalendar.livetable._avatar=
+### Missing: moccacalendar.livetable._images=
+### Missing: moccacalendar.livetable._attachments=
+### Missing: moccacalendar.livetable._actions=
+### Missing: moccacalendar.livetable._actions.edit=
+### Missing: moccacalendar.livetable._actions.delete=
+### Missing: moccacalendar.livetable.emptyvalue=
+### Missing: moccacalendar.livetable.title=
+### Missing: moccacalendar.livetable.description=
+### Missing: moccacalendar.livetable.content1=
+
+# Mocca Calendar Events keys
+# Class fields
+### Missing: MoccaCalendar.MoccaCalendarEventClass_title=
+### Missing: MoccaCalendar.MoccaCalendarEventClass_startDate=
+### Missing: MoccaCalendar.MoccaCalendarEventClass_endDate=
+### Missing: MoccaCalendar.MoccaCalendarEventClass_description=
+### Missing: MoccaCalendar.MoccaCalendarEventClass_allDay=
+### Missing: MoccaCalendar.MoccaCalendarEventClass_recurrent=
+
+# modification class fields
+### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_daily=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_workdays=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_weekly=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_biweekly=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_monthly=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_quarterly=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_frequency_yearly=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_firstInstance=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventRecurrencyClass_lastInstance=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventModificationClass_title=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventModificationClass_startDate=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventModificationClass_endDate=
+### Missing: MoccaCalendar.Code.MoccaCalendarEventModificationClass_description=
+
+# the modification switch
+### Missing: moccacalendarevent.editswitch.label=
+### Missing: moccacalendarevent.editswitch.oneInstance=
+### Missing: moccacalendarevent.editswitch.allInstances=
+
+# Event live table generic keys (currently unused)
+### Missing: moccacalendarevent.livetable.doc.title=
+### Missing: moccacalendarevent.livetable.doc.name=
+### Missing: moccacalendarevent.livetable.doc.space=
+### Missing: moccacalendarevent.livetable.doc.fullname=
+### Missing: moccacalendarevent.livetable.doc.author=
+### Missing: moccacalendarevent.livetable.doc.creator=
+### Missing: moccacalendarevent.livetable.doc.date=
+### Missing: moccacalendarevent.livetable.doc.creationDate=
+### Missing: moccacalendarevent.livetable._avatar=
+### Missing: moccacalendarevent.livetable._images=
+### Missing: moccacalendarevent.livetable._attachments=
+### Missing: moccacalendarevent.livetable._actions=
+### Missing: moccacalendarevent.livetable._actions.edit=
+### Missing: moccacalendarevent.livetable._actions.delete=
+### Missing: moccacalendarevent.livetable.emptyvalue=
+
+# Live table specific keys
+### Missing: moccacalendarevent.livetable.title=
+### Missing: moccacalendarevent.livetable.startDate=
+### Missing: moccacalendarevent.livetable.endDate=
+### Missing: moccacalendarevent.livetable.description=
+
+# validation messages: on save
+### Missing: val_title_notvalid=
+### Missing: val_title_notempty=
+### Missing: val_startDateMissing=
+### Missing: val_startDateNotDate=
+### Missing: val_endDateNotDate=
+### Missing: val_endDate=
+### Missing: val_title_already_exists=
+### Missing: moccacalendar.updates.firstInstance.notDate=
+### Missing: moccacalendar.updates.lastInstance.notDate=
+
+# validation messages: Update Service
+### Missing: moccacalendar.updates.eventUpdated=
+### Missing: moccacalendar.updates.eventrecurrent=
+### Missing: moccacalendar.updates.valuesinvalid=
+### Missing: moccacalendar.updates.nodocument=
+
+# validation messages: Delete Service
+### Missing: moccacalendar.delete.startDateInvalid=
+### Missing: moccacalendar.delete.saveMessage=
+
+# validation messages: Modification Service
+### Missing: moccacalendar.modify.createMessage=
+### Missing: moccacalendar.modify.saveMessage=
+
+# Calendar macro
+### Missing: rendering.macro.moccacalendar.name=
+### Missing: rendering.macro.moccacalendar.description=
+### Missing: rendering.macro.moccacalendar.parameter.filter.name=
+### Missing: rendering.macro.moccacalendar.parameter.filter.description=
+### Missing: rendering.macro.moccacalendar.parameter.calendarDoc.name=
+### Missing: rendering.macro.moccacalendar.parameter.calendarDoc.description=
+### Missing: rendering.macro.moccacalendar.parameter.defaultView.name=
+### Missing: rendering.macro.moccacalendar.parameter.defaultView.description=
+### Missing: rendering.macro.moccacalendar.parameter.firstDay.name=
+### Missing: rendering.macro.moccacalendar.parameter.firstDay.description=
+### Missing: rendering.macro.moccacalendar.parameter.minTime.name=
+### Missing: rendering.macro.moccacalendar.parameter.minTime.description=
+### Missing: rendering.macro.moccacalendar.parameter.maxTime.name=
+### Missing: rendering.macro.moccacalendar.parameter.maxTime.description=
+### Missing: rendering.macro.moccacalendar.parameter.year.name=
+### Missing: rendering.macro.moccacalendar.parameter.year.description=
+### Missing: rendering.macro.moccacalendar.parameter.month.name=
+### Missing: rendering.macro.moccacalendar.parameter.month.description=
+### Missing: rendering.macro.moccacalendar.parameter.date.name=
+### Missing: rendering.macro.moccacalendar.parameter.date.description=
+### Missing: rendering.macro.moccacalendar.parameter.eventLimit.name=
+### Missing: rendering.macro.moccacalendar.parameter.eventLimit.description=
+</content>
+</xwikidoc>
